@@ -1,5 +1,13 @@
 # 🌡️ Surface Heat Analysis - Em desenvolvimento! 
 
+<!-- project-badges:start -->
+![Aplicação: R · Shiny](https://img.shields.io/static/v1?label=Aplica%C3%A7%C3%A3o&message=R%20%C2%B7%20Shiny&color=276DC3&style=flat)
+![Status: Em desenvolvimento](https://img.shields.io/static/v1?label=Status&message=Em%20desenvolvimento&color=orange&style=flat)
+[![Autoria: Rebeca Diniz Moura](https://img.shields.io/static/v1?label=Autoria&message=Rebeca%20Diniz%20Moura&color=8b5cf6&style=flat)](https://github.com/RebecaGis)
+[![Licença: GPL-3.0](https://img.shields.io/static/v1?label=Licen%C3%A7a&message=GPL-3.0&color=blue&style=flat)](https://github.com/RebecaGis/Surface-Heat-Analysis/blob/docs/badges-2026-11-10/LICENSE)
+<!-- project-badges:end -->
+
+
 Aplicativo interativo em **R Shiny** para análise de temperatura de superfície utilizando imagens **Landsat Collection 2 Level 2**.
 O app permite identificar áreas quentes em municípios brasileiros, calcular estatísticas de temperatura, gerar mapas interativos e exportar resultados em diversos formatos.
 
